@@ -1,0 +1,276 @@
+ISim log file
+Running: C:\Xilinx\mipsmulti01.sv\testbench_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb C:/Xilinx/mipsmulti01.sv/testbench_isim_beh.wdb 
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+at 0 ps, Instance /testbench/dut/mips/dp/rf/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /testbench/dut/mips/dp/rf/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 0 ps, Instance /testbench/dut/mips/dp/rf/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 0 ps, Instance /testbench/dut/mips/dp/mainalu/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 0 ps, Instance /testbench/dut/mips/dp/mainalu/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 0 ps, Instance /testbench/dut/mips/dp/mainalu/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 0 ps, Instance /testbench/dut/mips/dp/mainalu/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 0 ps: Note: hi (/testbench/dut/memory/).
+at 0 ps, Instance /testbench/dut/memory/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+Finished circuit initialization process.
+at 0 ps: Note: hi (/testbench/dut/memory/).
+at 0 ps, Instance /testbench/dut/memory/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 0 ps, Instance /testbench/dut/mips/dp/mainalu/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 0 ps, Instance /testbench/dut/mips/dp/mainalu/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 0 ps, Instance /testbench/dut/mips/dp/mainalu/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 0 ps, Instance /testbench/dut/mips/dp/mainalu/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 0 ps, Instance /testbench/dut/mips/dp/mainalu/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 0 ps, Instance /testbench/dut/mips/dp/mainalu/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 0 ps, Instance /testbench/dut/mips/dp/mainalu/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 0 ps, Instance /testbench/dut/mips/dp/mainalu/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 0 ps: Note: hi (/testbench/dut/memory/).
+at 0 ps, Instance /testbench/dut/mips/dp/mainalu/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 0 ps, Instance /testbench/dut/mips/dp/mainalu/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 5 ns(1): Note: hi (/testbench/dut/memory/).
+at 10 ns(1): Note: hi (/testbench/dut/memory/).
+at 15 ns(1): Note: hi (/testbench/dut/memory/).
+at 20 ns(1): Note: hi (/testbench/dut/memory/).
+at 20 ns(3): Note: hi (/testbench/dut/memory/).
+at 25 ns(1): Note: hi (/testbench/dut/memory/).
+at 30 ns(1): Note: hi (/testbench/dut/memory/).
+at 35 ns(1): Note: hi (/testbench/dut/memory/).
+at 40 ns(1): Note: hi (/testbench/dut/memory/).
+at 40 ns(4), Instance /testbench/dut/mips/dp/mainalu/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 45 ns(1): Note: hi (/testbench/dut/memory/).
+at 50 ns(1): Note: hi (/testbench/dut/memory/).
+at 55 ns(1): Note: hi (/testbench/dut/memory/).
+at 60 ns(1): Note: hi (/testbench/dut/memory/).
+at 60 ns(3): Note: hi (/testbench/dut/memory/).
+at 65 ns(1): Note: hi (/testbench/dut/memory/).
+at 70 ns(1): Note: hi (/testbench/dut/memory/).
+at 75 ns(1): Note: hi (/testbench/dut/memory/).
+at 80 ns(1): Note: hi (/testbench/dut/memory/).
+at 80 ns(4), Instance /testbench/dut/mips/dp/mainalu/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 85 ns(1): Note: hi (/testbench/dut/memory/).
+at 90 ns(1): Note: hi (/testbench/dut/memory/).
+at 95 ns(1): Note: hi (/testbench/dut/memory/).
+at 100 ns(1): Note: hi (/testbench/dut/memory/).
+at 100 ns(3): Note: hi (/testbench/dut/memory/).
+at 105 ns(1): Note: hi (/testbench/dut/memory/).
+at 110 ns(1): Note: hi (/testbench/dut/memory/).
+at 115 ns(1): Note: hi (/testbench/dut/memory/).
+at 120 ns(1): Note: hi (/testbench/dut/memory/).
+at 120 ns(4), Instance /testbench/dut/mips/dp/mainalu/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 125 ns(1): Note: hi (/testbench/dut/memory/).
+at 130 ns(1): Note: hi (/testbench/dut/memory/).
+at 135 ns(1): Note: hi (/testbench/dut/memory/).
+at 140 ns(1): Note: hi (/testbench/dut/memory/).
+at 140 ns(3): Note: hi (/testbench/dut/memory/).
+at 145 ns(1): Note: hi (/testbench/dut/memory/).
+at 150 ns(1): Note: hi (/testbench/dut/memory/).
+at 155 ns(1): Note: hi (/testbench/dut/memory/).
+at 160 ns(1): Note: hi (/testbench/dut/memory/).
+at 165 ns(1): Note: hi (/testbench/dut/memory/).
+at 170 ns(1): Note: hi (/testbench/dut/memory/).
+at 175 ns(1): Note: hi (/testbench/dut/memory/).
+at 180 ns(1): Note: hi (/testbench/dut/memory/).
+at 180 ns(3): Note: hi (/testbench/dut/memory/).
+at 185 ns(1): Note: hi (/testbench/dut/memory/).
+at 190 ns(1): Note: hi (/testbench/dut/memory/).
+at 195 ns(1): Note: hi (/testbench/dut/memory/).
+at 200 ns(1): Note: hi (/testbench/dut/memory/).
+at 205 ns(1): Note: hi (/testbench/dut/memory/).
+at 210 ns(1): Note: hi (/testbench/dut/memory/).
+at 215 ns(1): Note: hi (/testbench/dut/memory/).
+at 220 ns(1): Note: hi (/testbench/dut/memory/).
+at 220 ns(3): Note: hi (/testbench/dut/memory/).
+at 225 ns(1): Note: hi (/testbench/dut/memory/).
+at 230 ns(1): Note: hi (/testbench/dut/memory/).
+at 235 ns(1): Note: hi (/testbench/dut/memory/).
+at 240 ns(1): Note: hi (/testbench/dut/memory/).
+at 245 ns(1): Note: hi (/testbench/dut/memory/).
+at 250 ns(1): Note: hi (/testbench/dut/memory/).
+at 255 ns(1): Note: hi (/testbench/dut/memory/).
+at 260 ns(1): Note: hi (/testbench/dut/memory/).
+at 260 ns(3): Note: hi (/testbench/dut/memory/).
+at 265 ns(1): Note: hi (/testbench/dut/memory/).
+at 270 ns(1): Note: hi (/testbench/dut/memory/).
+at 275 ns(1): Note: hi (/testbench/dut/memory/).
+at 280 ns(1): Note: hi (/testbench/dut/memory/).
+at 285 ns(1): Note: hi (/testbench/dut/memory/).
+at 290 ns(1): Note: hi (/testbench/dut/memory/).
+at 290 ns(3): Note: hi (/testbench/dut/memory/).
+at 295 ns(1): Note: hi (/testbench/dut/memory/).
+at 300 ns(1): Note: hi (/testbench/dut/memory/).
+at 305 ns(1): Note: hi (/testbench/dut/memory/).
+at 310 ns(1): Note: hi (/testbench/dut/memory/).
+at 315 ns(1): Note: hi (/testbench/dut/memory/).
+at 320 ns(1): Note: hi (/testbench/dut/memory/).
+at 325 ns(1): Note: hi (/testbench/dut/memory/).
+at 330 ns(1): Note: hi (/testbench/dut/memory/).
+at 330 ns(3): Note: hi (/testbench/dut/memory/).
+at 335 ns(1): Note: hi (/testbench/dut/memory/).
+at 340 ns(1): Note: hi (/testbench/dut/memory/).
+at 345 ns(1): Note: hi (/testbench/dut/memory/).
+at 350 ns(1): Note: hi (/testbench/dut/memory/).
+at 350 ns(3): Note: hi (/testbench/dut/memory/).
+at 355 ns(1): Note: hi (/testbench/dut/memory/).
+at 360 ns(1): Note: hi (/testbench/dut/memory/).
+at 360 ns(3): Note: hi (/testbench/dut/memory/).
+at 365 ns(1): Note: hi (/testbench/dut/memory/).
+at 370 ns(1): Note: hi (/testbench/dut/memory/).
+at 375 ns(1): Note: hi (/testbench/dut/memory/).
+at 380 ns(1): Note: hi (/testbench/dut/memory/).
+at 385 ns(1): Note: hi (/testbench/dut/memory/).
+at 390 ns(1): Note: hi (/testbench/dut/memory/).
+at 395 ns(1): Note: hi (/testbench/dut/memory/).
+at 400 ns(1): Note: hi (/testbench/dut/memory/).
+at 400 ns(3): Note: hi (/testbench/dut/memory/).
+at 405 ns(1): Note: hi (/testbench/dut/memory/).
+at 410 ns(1): Note: hi (/testbench/dut/memory/).
+at 415 ns(1): Note: hi (/testbench/dut/memory/).
+at 420 ns(1): Note: hi (/testbench/dut/memory/).
+at 425 ns(1): Note: hi (/testbench/dut/memory/).
+at 430 ns(1): Note: hi (/testbench/dut/memory/).
+at 435 ns(1): Note: hi (/testbench/dut/memory/).
+at 440 ns(1): Note: hi (/testbench/dut/memory/).
+at 440 ns(3): Note: hi (/testbench/dut/memory/).
+at 445 ns(1): Note: hi (/testbench/dut/memory/).
+at 450 ns(1): Note: hi (/testbench/dut/memory/).
+at 455 ns(1): Note: hi (/testbench/dut/memory/).
+at 460 ns(1): Note: hi (/testbench/dut/memory/).
+at 465 ns(1): Note: hi (/testbench/dut/memory/).
+at 470 ns(1): Note: hi (/testbench/dut/memory/).
+at 475 ns(1): Note: hi (/testbench/dut/memory/).
+at 480 ns(1): Note: hi (/testbench/dut/memory/).
+at 480 ns(3): Note: hi (/testbench/dut/memory/).
+at 485 ns(1): Note: hi (/testbench/dut/memory/).
+at 490 ns(1): Note: hi (/testbench/dut/memory/).
+at 495 ns(1): Note: hi (/testbench/dut/memory/).
+at 500 ns(1): Note: hi (/testbench/dut/memory/).
+at 500 ns(4): Note: hi (/testbench/dut/memory/).
+at 505 ns(1): Note: hi (/testbench/dut/memory/).
+at 510 ns(1): Note: hi (/testbench/dut/memory/).
+at 510 ns(3): Note: hi (/testbench/dut/memory/).
+at 510 ns(4): Note: hi (/testbench/dut/memory/).
+at 515 ns(1): Note: hi (/testbench/dut/memory/).
+at 520 ns(1): Note: hi (/testbench/dut/memory/).
+at 520 ns(3): Note: hi (/testbench/dut/memory/).
+at 525 ns(1): Note: hi (/testbench/dut/memory/).
+at 530 ns(1): Note: hi (/testbench/dut/memory/).
+at 535 ns(1): Note: hi (/testbench/dut/memory/).
+at 540 ns(1): Note: hi (/testbench/dut/memory/).
+at 540 ns(4): Note: hi (/testbench/dut/memory/).
+at 545 ns(1): Note: hi (/testbench/dut/memory/).
+at 550 ns(1): Note: hi (/testbench/dut/memory/).
+at 550 ns(3): Note: hi (/testbench/dut/memory/).
+at 550 ns(4): Note: hi (/testbench/dut/memory/).
+at 555 ns(1): Note: hi (/testbench/dut/memory/).
+at 560 ns(1): Note: hi (/testbench/dut/memory/).
+at 565 ns(1): Note: hi (/testbench/dut/memory/).
+at 570 ns(1): Note: hi (/testbench/dut/memory/).
+at 570 ns(3): Note: hi (/testbench/dut/memory/).
+at 575 ns(1): Note: hi (/testbench/dut/memory/).
+at 580 ns(1): Note: hi (/testbench/dut/memory/).
+at 585 ns(1): Note: hi (/testbench/dut/memory/).
+at 590 ns(1): Note: hi (/testbench/dut/memory/).
+at 590 ns(3): Note: hi (/testbench/dut/memory/).
+at 595 ns(1): Note: hi (/testbench/dut/memory/).
+at 600 ns(1): Note: hi (/testbench/dut/memory/).
+at 600 ns(3): Note: hi (/testbench/dut/memory/).
+at 605 ns(1): Note: hi (/testbench/dut/memory/).
+at 610 ns(1): Note: hi (/testbench/dut/memory/).
+at 615 ns(1): Note: hi (/testbench/dut/memory/).
+at 620 ns(1): Note: hi (/testbench/dut/memory/).
+at 620 ns(4): Note: hi (/testbench/dut/memory/).
+at 625 ns(1): Note: Simulation succeeded (/testbench/).
+at 625 ns(1): Note: hi (/testbench/dut/memory/).
+at 630 ns(1): Note: hi (/testbench/dut/memory/).
+at 630 ns(3): Note: hi (/testbench/dut/memory/).
+at 630 ns(4): Note: hi (/testbench/dut/memory/).
+at 635 ns(1): Note: hi (/testbench/dut/memory/).
+at 640 ns(1): Note: hi (/testbench/dut/memory/).
+at 640 ns(3): Note: hi (/testbench/dut/memory/).
+at 645 ns(1): Note: hi (/testbench/dut/memory/).
+at 650 ns(1): Note: hi (/testbench/dut/memory/).
+at 655 ns(1): Note: hi (/testbench/dut/memory/).
+at 660 ns(1): Note: hi (/testbench/dut/memory/).
+at 665 ns(1): Note: hi (/testbench/dut/memory/).
+at 670 ns(1): Note: hi (/testbench/dut/memory/).
+at 675 ns(1): Note: hi (/testbench/dut/memory/).
+at 680 ns(1): Note: hi (/testbench/dut/memory/).
+at 680 ns(3): Note: hi (/testbench/dut/memory/).
+at 685 ns(1): Note: hi (/testbench/dut/memory/).
+at 690 ns(1): Note: hi (/testbench/dut/memory/).
+at 695 ns(1): Note: hi (/testbench/dut/memory/).
+at 700 ns(1): Note: hi (/testbench/dut/memory/).
+at 705 ns(1): Note: hi (/testbench/dut/memory/).
+at 710 ns(1): Note: hi (/testbench/dut/memory/).
+at 715 ns(1): Note: hi (/testbench/dut/memory/).
+at 720 ns(1): Note: hi (/testbench/dut/memory/).
+at 720 ns(3): Note: hi (/testbench/dut/memory/).
+at 725 ns(1): Note: hi (/testbench/dut/memory/).
+at 730 ns(1): Note: hi (/testbench/dut/memory/).
+at 735 ns(1): Note: hi (/testbench/dut/memory/).
+at 740 ns(1): Note: hi (/testbench/dut/memory/).
+at 745 ns(1): Note: hi (/testbench/dut/memory/).
+at 750 ns(1): Note: hi (/testbench/dut/memory/).
+at 755 ns(1): Note: hi (/testbench/dut/memory/).
+at 760 ns(1): Note: hi (/testbench/dut/memory/).
+at 760 ns(3): Note: hi (/testbench/dut/memory/).
+at 765 ns(1): Note: hi (/testbench/dut/memory/).
+at 770 ns(1): Note: hi (/testbench/dut/memory/).
+at 775 ns(1): Note: hi (/testbench/dut/memory/).
+at 780 ns(1): Note: hi (/testbench/dut/memory/).
+at 785 ns(1): Note: hi (/testbench/dut/memory/).
+at 790 ns(1): Note: hi (/testbench/dut/memory/).
+at 795 ns(1): Note: hi (/testbench/dut/memory/).
+at 800 ns(1): Note: hi (/testbench/dut/memory/).
+at 800 ns(3): Note: hi (/testbench/dut/memory/).
+at 805 ns(1): Note: hi (/testbench/dut/memory/).
+at 810 ns(1): Note: hi (/testbench/dut/memory/).
+at 815 ns(1): Note: hi (/testbench/dut/memory/).
+at 820 ns(1): Note: hi (/testbench/dut/memory/).
+at 825 ns(1): Note: hi (/testbench/dut/memory/).
+at 830 ns(1): Note: hi (/testbench/dut/memory/).
+at 835 ns(1): Note: hi (/testbench/dut/memory/).
+at 840 ns(1): Note: hi (/testbench/dut/memory/).
+at 840 ns(3): Note: hi (/testbench/dut/memory/).
+at 845 ns(1): Note: hi (/testbench/dut/memory/).
+at 850 ns(1): Note: hi (/testbench/dut/memory/).
+at 855 ns(1): Note: hi (/testbench/dut/memory/).
+at 860 ns(1): Note: hi (/testbench/dut/memory/).
+at 865 ns(1): Note: hi (/testbench/dut/memory/).
+at 870 ns(1): Note: hi (/testbench/dut/memory/).
+at 875 ns(1): Note: hi (/testbench/dut/memory/).
+at 880 ns(1): Note: hi (/testbench/dut/memory/).
+at 880 ns(3): Note: hi (/testbench/dut/memory/).
+at 885 ns(1): Note: hi (/testbench/dut/memory/).
+at 890 ns(1): Note: hi (/testbench/dut/memory/).
+at 895 ns(1): Note: hi (/testbench/dut/memory/).
+at 900 ns(1): Note: hi (/testbench/dut/memory/).
+at 905 ns(1): Note: hi (/testbench/dut/memory/).
+at 910 ns(1): Note: hi (/testbench/dut/memory/).
+at 915 ns(1): Note: hi (/testbench/dut/memory/).
+at 920 ns(1): Note: hi (/testbench/dut/memory/).
+at 920 ns(3): Note: hi (/testbench/dut/memory/).
+at 925 ns(1): Note: hi (/testbench/dut/memory/).
+at 930 ns(1): Note: hi (/testbench/dut/memory/).
+at 935 ns(1): Note: hi (/testbench/dut/memory/).
+at 940 ns(1): Note: hi (/testbench/dut/memory/).
+at 945 ns(1): Note: hi (/testbench/dut/memory/).
+at 950 ns(1): Note: hi (/testbench/dut/memory/).
+at 955 ns(1): Note: hi (/testbench/dut/memory/).
+at 960 ns(1): Note: hi (/testbench/dut/memory/).
+at 960 ns(3): Note: hi (/testbench/dut/memory/).
+at 965 ns(1): Note: hi (/testbench/dut/memory/).
+at 970 ns(1): Note: hi (/testbench/dut/memory/).
+at 975 ns(1): Note: hi (/testbench/dut/memory/).
+at 980 ns(1): Note: hi (/testbench/dut/memory/).
+at 985 ns(1): Note: hi (/testbench/dut/memory/).
+at 990 ns(1): Note: hi (/testbench/dut/memory/).
+at 995 ns(1): Note: hi (/testbench/dut/memory/).
+at 1 us(1): Note: hi (/testbench/dut/memory/).
+at 1 us(3): Note: hi (/testbench/dut/memory/).

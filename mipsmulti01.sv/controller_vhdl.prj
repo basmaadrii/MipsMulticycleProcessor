@@ -1,0 +1,3 @@
+vhdl work "C:\Xilinx\mipsmulti01.sv\maindec.vhd"
+vhdl work "C:\Xilinx\mipsmulti01.sv\aludec.vhd"
+vhdl work "C:\Xilinx\mipsmulti01.sv\controller.vhd"

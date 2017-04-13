@@ -1,0 +1,67 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to C:/Xilinx/mipsmulti01.sv/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.47 secs
+ 
+--> Parameter xsthdpdir set to C:/Xilinx/mipsmulti01.sv/xst
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.47 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "C:/Xilinx/mipsmulti01.sv/flopren.vhd" in Library work.
+Architecture asynchronous of Entity flopren is up to date.
+Compiling vhdl file "C:/Xilinx/mipsmulti01.sv/mux2.vhd" in Library work.
+Architecture behave of Entity mux2 is up to date.
+Compiling vhdl file "C:/Xilinx/mipsmulti01.sv/mux4.vhd" in Library work.
+Architecture behave of Entity mux4 is up to date.
+Compiling vhdl file "C:/Xilinx/mipsmulti01.sv/flopr.vhd" in Library work.
+Architecture asynchronous of Entity flopr is up to date.
+Compiling vhdl file "C:/Xilinx/mipsmulti01.sv/regfile.vhd" in Library work.
+Architecture behave of Entity regfile is up to date.
+Compiling vhdl file "C:/Xilinx/mipsmulti01.sv/signext.vhd" in Library work.
+Architecture behave of Entity signext is up to date.
+Compiling vhdl file "C:/Xilinx/mipsmulti01.sv/flopr2.vhd" in Library work.
+Architecture asynchronous of Entity flopr2 is up to date.
+Compiling vhdl file "C:/Xilinx/mipsmulti01.sv/sl2.vhd" in Library work.
+Architecture behave of Entity sl2 is up to date.
+Compiling vhdl file "C:/Xilinx/mipsmulti01.sv/alu.vhd" in Library work.
+Entity <alu> compiled.
+Entity <alu> (Architecture <behavioral>) compiled.
+Compiling vhdl file "C:/Xilinx/mipsmulti01.sv/maindec.vhd" in Library work.
+Architecture behavioral of Entity maindec is up to date.
+Compiling vhdl file "C:/Xilinx/mipsmulti01.sv/aludec.vhd" in Library work.
+Architecture behave of Entity aludec is up to date.
+Compiling vhdl file "C:/Xilinx/mipsmulti01.sv/controller.vhd" in Library work.
+Architecture behavioral of Entity controller is up to date.
+Compiling vhdl file "C:/Xilinx/mipsmulti01.sv/datapath.vhd" in Library work.
+Architecture behavioral of Entity datapath is up to date.
+Compiling vhdl file "C:/Xilinx/mipsmulti01.sv/mipsmulti.vhd" in Library work.
+Entity <mipsmulti> compiled.
+Entity <mipsmulti> (Architecture <behavioral>) compiled.
+Compiling vhdl file "C:/Xilinx/mipsmulti01.sv/idmem.vhd" in Library work.
+Architecture behavioral of Entity idmem is up to date.
+Compiling vhdl file "C:/Xilinx/mipsmulti01.sv/topmulti.vhd" in Library work.
+Entity <topmulti> compiled.
+Entity <topmulti> (Architecture <Behavioral>) compiled.
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.97 secs
+ 
+--> 
+
+Total memory usage is 268224 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

@@ -1,0 +1,74 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to C:/Xilinx/mipsmulti01.sv/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.46 secs
+ 
+--> Parameter xsthdpdir set to C:/Xilinx/mipsmulti01.sv/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.47 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "C:/Xilinx/mipsmulti01.sv/flopren.vhd" in Library work.
+Entity <flopren> compiled.
+Entity <flopren> (Architecture <asynchronous>) compiled.
+Compiling vhdl file "C:/Xilinx/mipsmulti01.sv/mux2.vhd" in Library work.
+Entity <mux2> compiled.
+Entity <mux2> (Architecture <behave>) compiled.
+Compiling vhdl file "C:/Xilinx/mipsmulti01.sv/mux4.vhd" in Library work.
+Entity <mux4> compiled.
+Entity <mux4> (Architecture <behave>) compiled.
+Compiling vhdl file "C:/Xilinx/mipsmulti01.sv/flopr.vhd" in Library work.
+Entity <flopr> compiled.
+Entity <flopr> (Architecture <asynchronous>) compiled.
+Compiling vhdl file "C:/Xilinx/mipsmulti01.sv/regfile.vhd" in Library work.
+Entity <regfile> compiled.
+Entity <regfile> (Architecture <behave>) compiled.
+Compiling vhdl file "C:/Xilinx/mipsmulti01.sv/signext.vhd" in Library work.
+Entity <signext> compiled.
+Entity <signext> (Architecture <behave>) compiled.
+Compiling vhdl file "C:/Xilinx/mipsmulti01.sv/flopr2.vhd" in Library work.
+Entity <flopr2> compiled.
+Entity <flopr2> (Architecture <asynchronous>) compiled.
+Compiling vhdl file "C:/Xilinx/mipsmulti01.sv/sl2.vhd" in Library work.
+Entity <sl2> compiled.
+Entity <sl2> (Architecture <behave>) compiled.
+Compiling vhdl file "C:/Xilinx/mipsmulti01.sv/alu.vhd" in Library work.
+Entity <alu> compiled.
+Entity <alu> (Architecture <Behavioral>) compiled.
+Compiling vhdl file "C:/Xilinx/mipsmulti01.sv/maindec.vhd" in Library work.
+Entity <maindec> compiled.
+Entity <maindec> (Architecture <behavioral>) compiled.
+Compiling vhdl file "C:/Xilinx/mipsmulti01.sv/aludec.vhd" in Library work.
+Architecture behave of Entity aludec is up to date.
+Compiling vhdl file "C:/Xilinx/mipsmulti01.sv/controller.vhd" in Library work.
+Entity <controller> compiled.
+Entity <controller> (Architecture <behavioral>) compiled.
+Compiling vhdl file "C:/Xilinx/mipsmulti01.sv/datapath.vhd" in Library work.
+Entity <datapath> compiled.
+Entity <datapath> (Architecture <Behavioral>) compiled.
+Compiling vhdl file "C:/Xilinx/mipsmulti01.sv/mipsmulti.vhd" in Library work.
+Entity <mipsmulti> compiled.
+ERROR:HDLParsers:3312 - "C:/Xilinx/mipsmulti01.sv/mipsmulti.vhd" Line 41. Undefined symbol 'FSM'.
+ERROR:HDLParsers:1209 - "C:/Xilinx/mipsmulti01.sv/mipsmulti.vhd" Line 41. FSM: Undefined symbol (last report in this block)
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 1.03 secs
+ 
+--> 
+
+Total memory usage is 268224 kilobytes
+
+Number of errors   :    2 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+
